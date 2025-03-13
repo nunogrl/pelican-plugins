@@ -139,3 +139,6 @@
 [submodule "similar_posts"]
 	path = similar_posts
 	url = https://github.com/davidlesieur/similar_posts.git
+[submodule "mermaid-include"]
+	path = mermaid-include
+	url = https://github.com/nunogrl/mermaid-include.git
